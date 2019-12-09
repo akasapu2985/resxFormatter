@@ -52,6 +52,8 @@
 		"vscode-test": "^1.2.2"
 	},
 	"dependencies": {
+		"@types/lodash": "^4.14.149",
+		"lodash": "^4.17.15",
 		"xml-js": "^1.6.11"
 	}
 }
