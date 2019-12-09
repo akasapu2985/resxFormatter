@@ -30,6 +30,9 @@
 		]
 	},
 	"publisher": "girishakasapu",
+	"repository": {
+		"url": "https://github.com/akasapu2985/resxFormatter.git"
+	},
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -p ./",
