@@ -29,6 +29,7 @@
 			}
 		]
 	},
+	"publisher": "girishakasapu",
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -p ./",
