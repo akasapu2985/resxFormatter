@@ -2,7 +2,7 @@
 	"name": "resxformatter",
 	"displayName": "resxFormatter",
 	"description": "format resx files",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.40.0"
 	},
